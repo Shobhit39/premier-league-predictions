@@ -1,14 +1,14 @@
 let fixtures = [
-  { team1: "Leicester FC", team2: "Nottm Forest", team1Logo: "C:\\Users\\user\\Downloads\\premier-league-predictions\\Leicester.png", team2Logo: "C:\\Users\\user\\Downloads\\premier-league-predictions\\Forest.png" },
-  { team1: "Manchester City", team2: "Southampton", team1Logo: "C:\\Users\\user\\Downloads\\premier-league-predictions\\city.png", team2Logo: "C:\\Users\\user\\Downloads\\premier-league-predictions\\Southampton.png" },
-  { team1: "Brentford", team2: "Ipswich Town", team1Logo: "C:\\Users\\user\\Downloads\\premier-league-predictions\\Brentford.png", team2Logo: "C:\\Users\\user\\Downloads\\premier-league-predictions\\Ipswich.png" },
-  { team1: "Brighton", team2: "Wolves", team1Logo: "C:\\Users\\user\\Downloads\\premier-league-predictions\\Brighton.png", team2Logo: "C:\\Users\\user\\Downloads\\premier-league-predictions\\Wolves.png" },
-  { team1: "Aston Villa", team2: "Bournemouth", team1Logo: "C:\\Users\\user\\Downloads\\premier-league-predictions\\Villa.png", team2Logo: "C:\\Users\\user\\Downloads\\premier-league-predictions\\Bournemouth.png" },
-  { team1: "Everton", team2: "Fulham", team1Logo: "C:\\Users\\user\\Downloads\\premier-league-predictions\\Everton.png", team2Logo: "C:\\Users\\user\\Downloads\\premier-league-predictions\\Fulham.png" },
-  { team1: "Crystal Palace", team2: "Tottenham", team1Logo: "C:\\Users\\user\\Downloads\\premier-league-predictions\\Palace.png", team2Logo: "C:\\Users\\user\\Downloads\\premier-league-predictions\\Tottenham.png" },
-  { team1: "Chelsea", team2: "Newcastle", team1Logo: "C:\\Users\\user\\Downloads\\premier-league-predictions\\Chelsea.png", team2Logo: "C:\\Users\\user\\Downloads\\premier-league-predictions\\Newcastle.png" },
-  { team1: "West Ham", team2: "Manchester United", team1Logo: "C:\\Users\\user\\Downloads\\premier-league-predictions\\westham.png", team2Logo: "C:\\Users\\user\\Downloads\\premier-league-predictions\\United.png" },
-  { team1: "Arsenal", team2: "Liverpool", team1Logo: "C:\\Users\\user\\Downloads\\premier-league-predictions\\Arsenal.png", team2Logo: "C:\\Users\\user\\Downloads\\premier-league-predictions\\Liverpool.png" },
+  { team1: "Leicester FC", team2: "Nottm Forest", team1Logo: "images/Leicester.png", team2Logo: "images/Forest.png" },
+  { team1: "Manchester City", team2: "Southampton", team1Logo: "images/city.png", team2Logo: "images/Southampton.png" },
+  { team1: "Brentford", team2: "Ipswich Town", team1Logo: "images/Brentford.png", team2Logo: "images/Ipswich.png" },
+  { team1: "Brighton", team2: "Wolves", team1Logo: "images/Brighton.png", team2Logo: "images/Wolves.png" },
+  { team1: "Aston Villa", team2: "Bournemouth", team1Logo: "images/Villa.png", team2Logo: "images/Bournemouth.png" },
+  { team1: "Everton", team2: "Fulham", team1Logo: "images/Everton.png", team2Logo: "images/Fulham.png" },
+  { team1: "Crystal Palace", team2: "Tottenham", team1Logo: "images/Palace.png", team2Logo: "images/Tottenham.png" },
+  { team1: "Chelsea", team2: "Newcastle", team1Logo: "images/Chelsea.png", team2Logo: "images/Newcastle.png" },
+  { team1: "West Ham", team2: "Manchester United", team1Logo: "images/westham.png", team2Logo: "images/United.png" },
+  { team1: "Arsenal", team2: "Liverpool", team1Logo: "images/Arsenal.png", team2Logo: "images/Liverpool.png" }
 ];
 
 // Load fixtures and display them
