@@ -1,14 +1,14 @@
 let fixtures = [
-  { team1: "Leicester FC", team2: "Nottm Forest", team1Logo: "images/Leicester.png", team2Logo: "images/Forest.png" },
-  { team1: "Manchester City", team2: "Southampton", team1Logo: "images/city.png", team2Logo: "images/Southampton.png" },
-  { team1: "Brentford", team2: "Ipswich Town", team1Logo: "images/Brentford.png", team2Logo: "images/Ipswich.png" },
-  { team1: "Brighton", team2: "Wolves", team1Logo: "images/Brighton.png", team2Logo: "images/Wolves.png" },
-  { team1: "Aston Villa", team2: "Bournemouth", team1Logo: "images/Villa.png", team2Logo: "images/Bournemouth.png" },
-  { team1: "Everton", team2: "Fulham", team1Logo: "images/Everton.png", team2Logo: "images/Fulham.png" },
-  { team1: "Crystal Palace", team2: "Tottenham", team1Logo: "images/Palace.png", team2Logo: "images/Tottenham.png" },
-  { team1: "Chelsea", team2: "Newcastle", team1Logo: "images/Chelsea.png", team2Logo: "images/Newcastle.png" },
-  { team1: "West Ham", team2: "Manchester United", team1Logo: "images/westham.png", team2Logo: "images/United.png" },
-  { team1: "Arsenal", team2: "Liverpool", team1Logo: "images/Arsenal.png", team2Logo: "images/Liverpool.png" }
+  { team1: "Leicester FC", team2: "Nottm Forest", team1Logo: "images/leicester.png", team2Logo: "images/forest.png" },
+  { team1: "Manchester City", team2: "Southampton", team1Logo: "images/city.png", team2Logo: "images/southampton.png" },
+  { team1: "Brentford", team2: "Ipswich Town", team1Logo: "images/brentford.png", team2Logo: "images/ipswich.png" },
+  { team1: "Brighton", team2: "Wolves", team1Logo: "images/brighton.png", team2Logo: "images/wolves.png" },
+  { team1: "Aston Villa", team2: "Bournemouth", team1Logo: "images/villa.png", team2Logo: "images/bournemouth.png" },
+  { team1: "Everton", team2: "Fulham", team1Logo: "images/everton.png", team2Logo: "images/fulham.png" },
+  { team1: "Crystal Palace", team2: "Tottenham", team1Logo: "images/palace.png", team2Logo: "images/tottenham.png" },
+  { team1: "Chelsea", team2: "Newcastle", team1Logo: "images/chelsea.png", team2Logo: "images/newcastle.png" },
+  { team1: "West Ham", team2: "Manchester United", team1Logo: "images/westham.png", team2Logo: "images/united.png" },
+  { team1: "Arsenal", team2: "Liverpool", team1Logo: "images/arsenal.png", team2Logo: "images/liverpool.png" }
 ];
 
 // Load fixtures and display them
