@@ -1,0 +1,97 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  width: 70%;
+  max-width: 1000px;
+  margin: 40px auto;
+  padding: 20px;
+  background-color: #fff;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+  text-align: center;
+}
+
+h1 {
+  font-size: 28px;
+  color: #333;
+  text-align: center;
+}
+
+#fixture-list {
+  margin-top: 20px;
+}
+
+.fixture {
+  display: flex;
+  align-items: center;
+  justify-content: space-between; /* Ensure the space between elements */
+  padding: 10px;
+  border-bottom: 1px solid #ddd;
+}
+
+.team-logo {
+  width: 40px;
+  height: 40px;
+  margin: 0 20px;
+}
+
+.fixture span {
+  flex: 1;
+  text-align: center;
+  font-size: 16px;
+  margin: 0 10px; /* Add margin to ensure space around */
+}
+
+.fixture input {
+  width: 60px; /* Adjust width */
+  height: 30px; /* Adjust height */
+  padding: 0;
+  text-align: center;
+  margin: 0 10px; /* Ensure margin around the input */
+}
+
+button {
+  display: block;
+  margin: 20px auto;
+  padding: 12px 25px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 18px;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+.prediction {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  font-size: 20px;
+  margin: 10px 0;
+}
+
+.prediction .team {
+  flex: 1;
+  text-align: center;
+}
+
+.prediction .dash {
+  font-weight: bold;
+  font-size: 24px;
+  text-align: center;
+  margin: 0 10px;
+}
+
+.prediction .score {
+  width: 40px;
+  text-align: center;
+}
